@@ -212,7 +212,7 @@ header {
 }
 .menu-header__link_circle {
   padding: 0 42px 0 0;
-  background: url(img/header/02.svg) right no-repeat;
+  background: url(./../img/header/02.svg) right no-repeat;
 }
 @media (max-width: 992.98px) {
   .menu-header__link_circle {
